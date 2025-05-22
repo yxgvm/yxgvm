@@ -16,6 +16,7 @@
 
 ## 💻 Мои проекты
 - [**HHVacancyTracker**](https://github.com/yxgvm/HHVacancyTracker) — Скрипт для парсинга и анализа вакансий из API hh.ru на Python.
+- [**TelegramGiftsAnalyzer**](https://github.com/yxgvm/TelegramGiftsAnalyzer) - Скрипт для сбора и анализа статистики продаж подарков в Telegram через API с экспортом в Excel.
 
 ## 📫 Контакты
 - **Telegram:** [yxgvm](https://t.me/yxgvm)
