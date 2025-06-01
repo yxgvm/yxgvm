@@ -8,7 +8,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="python" width="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="40"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original-wordmark.svg" alt="matplotlib" width="40"/>
 
 - Python (Pandas, Numpy, Matplotlib)
-- SQL (MySQL, PostgreSQL)
+- SQL (PostgreSQL)
 - Web scraping (requests, BeautifulSoup, yfinance)
 - Excel, Tableau, IBM Cognos
 - Математическая статистика, теория вероятностей
