@@ -21,4 +21,4 @@
 ## 📫 Контакты
 - **Telegram:** [yxgvm](https://t.me/yxgvm)
 - **Email:** artur.manasov@yandex.ru
-- **GitHub:** [yxgvm](https://github.com/yxgvm)
+- **Linkedin:** [Артур Манасов](https://www.linkedin.com/in/артур-манасов)
